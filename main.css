@@ -1,0 +1,41 @@
+body {
+    letter-spacing: 0.1px;
+    padding: 0;
+    margin: 0;
+    font-family: 'Share Tech Mono', Monospace, Courier;
+    font-weight: 400;
+    font-size: 17px;
+    color: #d4d3d3;
+	background: #111;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.logo {
+    width: 41px;
+    margin: auto;
+        margin-top: auto;
+    margin-top: 20px;
+	border: solid 1px #FFF;
+	max-width: 900px;
+}
+
+.header {
+
+	height: 86px;
+    width: 100%;
+    margin: auto;
+		margin-bottom: auto;
+    margin-bottom: 20px;
+    border-bottom: dotted 1px rgb(192, 192, 192);
+}
+
+
+.title {
+    display: inline-block;
+    color: #FFF;
+}
+
+.myimg {
+	float: right;
+}
