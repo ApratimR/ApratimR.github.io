@@ -11,6 +11,11 @@ body {
 	padding-right: 5%;
 }
 
+html{
+	scroll-behavior: smooth;
+}
+
+
 .logo {
 	width: 75px;
 	margin: auto;
@@ -40,4 +45,13 @@ body {
 	float: right;
 	padding-left: 20px;
 	padding-bottom: 20px;
+}
+
+pre,
+code,
+kbd,
+samp,
+tt{
+  font-family:monospace,monospace;
+  font-size:1em;
 }
